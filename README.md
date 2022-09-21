@@ -35,9 +35,10 @@
 
 
 <h3 align="center">Connect with me:</h3>
-<p align="center"> <a href="arbazkhan.edu13@gmail.com" >
-  <img align="center" alt="Arbaz Khan | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+<p align="center"> <a href="" >
+  <img align="center" alt="Arbaz Khan | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /> arbazkhan.edu13@gmail.com
   </a>
+  </br>
 <a href="https://twitter.com/ar_b_az" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ar_b_az" height="30" width="40" />
     </a>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -45,7 +46,7 @@
 </p >
 <p align="center">
 <a > <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=arbaz13&show_icons=true&locale=en&layout=compact&theme=dracula" alt="arbaz13"/> </a>
-  </br>
+  </br></br>
 <a><img  src="https://github-readme-stats.vercel.app/api?username=arbaz13&show_icons=true&locale=en&theme=dracula" alt="arbaz13" /> </a >
 </p>
  
